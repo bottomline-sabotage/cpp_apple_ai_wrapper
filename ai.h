@@ -1,8 +1,3 @@
-// Tyler Koberna, (C) 2025
-// This utilizes the Foundation Models API (https://developer.apple.com/documentation/foundationmodels)
-// It provides a way to use Apple Intelligence in typical C++ code. 
-// This shouldn't be used in production because this code is MacOS-only. Use an API that is compatible with Windows too.
-
 #include <iostream>
 #include <cstdint>
 #include <functional>
