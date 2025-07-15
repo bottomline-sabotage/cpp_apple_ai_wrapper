@@ -1,13 +1,3 @@
-/* 
-
-swiftc -emit-library \
--Xlinker /Users/tyler/C++/includes/apple-intelligence/runFunction.dylib \
--parse-as-library \
--o src.dylib \
-src.swift
-
-       */
-
 import FoundationModels
 import Dispatch
 
