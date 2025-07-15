@@ -1,9 +1,3 @@
-// Apple Intelligence Wrapper for C++
-// © 2025 Tyler Koberna. All rights reserved.
-// "Apple Intelligence" is a trademark of Apple Inc.
-// This project is not affiliated with or endorsed by Apple Inc.
-
-
 #include <iostream>
 #include "ai.h"
 #include <chrono>
