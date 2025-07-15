@@ -5,3 +5,6 @@ See a proper example in test.cpp
 
 > [!CAUTION]
 > This is ONLY supported on macOS Tahoe (which is currently in beta).
+
+## Compiling
+Compiling is pretty simple. For reference, I used clang++ (with C++20) and swift.
