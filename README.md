@@ -10,5 +10,5 @@ See a proper example in test.cpp
 Compiling is pretty simple. For reference, I used Apple clang++ (with C++20) and swiftc.
 Just ensure you follow this order:
   1. Compile runFunction.cpp
-  2. Compile src.swift (link to the compled runFunction) using swiftc
+  2. Compile src.swift (link to the compiled runFunction) using swiftc
   3. Compile code that uses the wrapper (e.g., test.cpp), linking to the compiled src.swift
